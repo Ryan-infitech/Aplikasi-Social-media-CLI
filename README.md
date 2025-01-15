@@ -1,7 +1,7 @@
 
-# Social-media-CLI-ubuntu
+# Aplikasi Social media Python di env CLI-ubuntu
 
-Social-Media-CLI-Ubuntu adalah sebuah proyek tugas kuliah yang bertujuan untuk membuat aplikasi media sosial berbasis Command Line Interface (CLI) di sistem operasi Ubuntu. Proyek ini dikembangkan menggunakan bahasa pemrograman Python dan terhubung dengan database MySQL untuk mendukung penyimpanan data secara terstruktur.
+Ini adalah sebuah proyek tugas kuliah yang bertujuan untuk membuat aplikasi media sosial berbasis Command Line Interface (CLI) di sistem operasi Ubuntu. Proyek ini dikembangkan menggunakan bahasa pemrograman Python dan terhubung dengan database MySQL untuk mendukung penyimpanan data secara terstruktur.
 
 Aplikasi ini menyediakan fitur dasar media sosial, seperti:
 
