@@ -19,7 +19,7 @@ Proyek ini diharapkan dapat memberikan pemahaman yang lebih mendalam tentang int
 
 
 
-## Screenshots
+## Preview
 
 ![App Screenshot](./SS/Screenshot%202024-11-28%20150348.png)
 
