@@ -10,6 +10,11 @@
 
 This is a college project aimed at creating a social media application based on Command Line Interface (CLI) on the Ubuntu operating system. The project is developed using the Python programming language and is connected to a MySQL database to support structured data storage.
 
+
+[![Documentation](https://img.shields.io/badge/Documentation-00A4EF?style=for-the-badge&logo=book&logoColor=white)](https://drive.google.com/file/d/1jl-yC-xOseKFg2mEaE13dxcFlBfHgkmk/view?usp=drive_link)
+
+
+
 The application provides basic social media features, such as:
 
 - User registration and login.
@@ -54,7 +59,13 @@ Login and jump to home page
 #### Ensure all dependencies are installed and the database (MySQL) is configured correctly
 
 ## Tech Stack
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJpeHd0dXJuMHhjY2Job2g1eHIyeDczZHFqb2k5MXF2NG9udnR5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)" width="100">
+
+<div align="center">
+<img src="./SS/Rich-python-cli-library.webp">
+<img src="./SS/pyth.gif" width="200"> 
+<img src="./SS/mysqll.gif"width="200">
+
+</div>
 
 ## Contact
 
