@@ -6,30 +6,24 @@
 </div>
 
 
-# Aplikasi Social media Python Di Environment CLI-Ubuntu
+# Python Social Media Application in CLI-Ubuntu Environment
 
-Ini adalah sebuah proyek tugas kuliah yang bertujuan untuk membuat aplikasi media sosial berbasis Command Line Interface (CLI) di sistem operasi Ubuntu. Proyek ini dikembangkan menggunakan bahasa pemrograman Python dan terhubung dengan database MySQL untuk mendukung penyimpanan data secara terstruktur.
+This is a college project aimed at creating a social media application based on Command Line Interface (CLI) on the Ubuntu operating system. The project is developed using the Python programming language and is connected to a MySQL database to support structured data storage.
 
-Aplikasi ini menyediakan fitur dasar media sosial, seperti:
+The application provides basic social media features, such as:
 
-- Registrasi dan login pengguna.
+- User registration and login.
+- Creation and management of posts.
+- Like/comment system on each post.
+- Messaging for user interaction.
 
-- Pembuatan dan pengelolaan postingan.
+The project is designed with a modular approach and utilizes Python libraries such as mysql-connector to manage database connections. All operations are executed through a terminal-based interface, making the application lightweight and suitable for implementation in server-based or local environments with limited resources.
 
-- Sistem Like/komentar pada setiap postingan.
-
-- Pesan untuk interaksi antar pengguna.
-
-Proyek ini dirancang dengan pendekatan modular dan memanfaatkan pustaka Python seperti mysql-connector untuk mengelola koneksi database. Semua operasi dijalankan melalui antarmuka berbasis terminal, membuat aplikasi ini ringan dan cocok untuk diimplementasikan di lingkungan berbasis server atau lokal dengan sumber daya terbatas.
-
-Proyek ini diharapkan dapat memberikan pemahaman yang lebih mendalam tentang integrasi antara Python dan MySQL, pengelolaan data berbasis relasi, serta pengembangan aplikasi berbasis CLI di lingkungan Linux/Ubuntu.
-
-
+This project is expected to provide a deeper understanding of the integration between Python and MySQL, relational data management, and CLI-based application development in a Linux/Ubuntu environment.
 
 ## Preview
 
 ![App Screenshot](./SS/Screenshot%202024-11-28%20150348.png)
-
 
 ## Run Locally
 
@@ -51,23 +45,20 @@ Run register
   python3 register.py
 ```
 
-Login and jump to beranda
+Login and jump to home page
 
 ```bash
   python3 login.py
 ```
 
-
-#### Pastikan semua dependensi sudah terinstal, dan database (MySQL) telah di konfigurasi dengan benar
-
+#### Ensure all dependencies are installed and the database (MySQL) is configured correctly
 
 ## Tech Stack
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJpeHd0dXJuMHhjY2Job2g1eHIyeDczZHFqb2k5MXF2NG9udnR5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJpeHd0dXJuMHhjY2Job2g1eHIyeDczZHFqb2k5MXF2NG9udnR5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)" width="100">
 
+## Contact
 
-## Kontak
-
-Jika Anda memiliki pertanyaan atau saran, silakan buka issue baru di repository ini.
+If you have any questions or suggestions, please open a new issue in this repository.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285157517798)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan.septiawan__/)
